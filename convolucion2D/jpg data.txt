@@ -1,0 +1,4 @@
+img name = jpg,img size = 570 x 760
+Using constant memory
+gpu time
+0.000562

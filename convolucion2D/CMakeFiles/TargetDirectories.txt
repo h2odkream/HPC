@@ -1,0 +1,3 @@
+/home/users/h2okaren/taller/CMakeFiles/edit_cache.dir
+/home/users/h2okaren/taller/CMakeFiles/rebuild_cache.dir
+/home/users/h2okaren/taller/CMakeFiles/convoConstMem.dir
